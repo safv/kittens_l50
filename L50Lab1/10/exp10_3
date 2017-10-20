@@ -1,0 +1,22 @@
+[ 33] local 192.168.0.1 port 48622 connected with 192.168.0.2 port 5556
+[ 30] local 192.168.0.1 port 5556 connected with 192.168.0.2 port 59522
+[ 33]  0.0- 1.0 sec  1.05 GBytes  9.06 Gbits/sec
+[ 30]  0.0- 1.0 sec   634 MBytes  5.32 Gbits/sec
+[ 33]  1.0- 2.0 sec  1.08 GBytes  9.32 Gbits/sec
+[ 30]  1.0- 2.0 sec   645 MBytes  5.41 Gbits/sec
+[ 33]  2.0- 3.0 sec  1.09 GBytes  9.32 Gbits/sec
+[ 30]  2.0- 3.0 sec   624 MBytes  5.23 Gbits/sec
+[ 33]  3.0- 4.0 sec  1.09 GBytes  9.32 Gbits/sec
+[ 30]  3.0- 4.0 sec   649 MBytes  5.45 Gbits/sec
+[ 33]  4.0- 5.0 sec  1.08 GBytes  9.32 Gbits/sec
+[ 30]  4.0- 5.0 sec   622 MBytes  5.22 Gbits/sec
+[ 33]  5.0- 6.0 sec   652 MBytes  5.47 Gbits/sec
+[ 30]  5.0- 6.0 sec   846 MBytes  7.09 Gbits/sec
+[ 33]  6.0- 7.0 sec   796 MBytes  6.68 Gbits/sec
+[ 30]  6.0- 7.0 sec  1.06 GBytes  9.14 Gbits/sec
+[ 33]  7.0- 8.0 sec  1.04 GBytes  8.90 Gbits/sec
+[ 30]  7.0- 8.0 sec  1.08 GBytes  9.30 Gbits/sec
+[ 33]  8.0- 9.0 sec   684 MBytes  5.74 Gbits/sec
+[ 30]  8.0- 9.0 sec   936 MBytes  7.85 Gbits/sec
+[ 33]  9.0-10.0 sec   968 MBytes  8.12 Gbits/sec
+[ 33]  0.0-10.0 sec  9.46 GBytes  8.12 Gbits/sec
